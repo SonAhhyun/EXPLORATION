@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "robotic-store-242700",
+  "private_key_id": "c9da9a1fd8cec75aee570139583e0d11995a2014",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqbGtbNFUMyr2n\n8zvvtoFbj2AEbnnESyhadcQhXfMD8WwbT6wboSHLmQiJPZrjkXJm4byY7Q9RM5eR\nCER6IPRJFjDBbRwuXRqQqizdlVVe22XXalorgJEbLc3YTDXVjfn4Gx99ZzHFyRRu\nxwafryM06qilg1QR+Ndy2Pny1GKRC03iZJmmy2Ho8ywAWhBobK3l+ZsL+WqrSE+P\nzz3xx/Lkd6Awf9ZD+m0y90jT3Ju/WlsVN2km8Ga3lOm2K42MAzLdwVfI24Q9m5bk\n7gaFwlWIuwoai574IQl+ea6NfZ12gyOaRMGhPgzDhLdIRt9zyJjPmWXpVKFLxf6J\nrJcqDqRHAgMBAAECggEAP2yWD51MQbR6HLUTC0U6ox6at0t+GaV24SOO2HQkasVA\nXHGsNaQj9aeAW8MHj8Wjc9Jy497lomy27YzMHz+AamrNvk6i/EY+CrSqedSHrwOr\nxR2ZbTMtzZWgU+0Y498wtjsx3vO2vEr3RbrgJjGBwsHJ/b8AXKflVqKVct/DxwJ4\nGSgCwZzziHQ1uSFyPVhh6xn1sDUViAE7VRVv6RAnLlMnjyQtYHkX00j6dBDB31wc\nJ/WTwdKXLaSS4GMJM94IX/Z0e2YVa0w0cy2lLWfHKa68yzrK85ya0PNltxyZTudZ\nFMyBgLs3sC9iM8YdFKYFoV2vDruhSjYzd7zMC61wEQKBgQDgtorH4WWtUFXgJmBh\nVhhb77OlS+HeMl6oKgn76gPwvygJwQrQWEEBg6skzjfvSvRMfzeGGYaDuGMbcRVb\ndIsN51gL9LnehdZuhWaL4KfvQdZM6R+cHdXmiwMND8AJwTr5jmN2X8ea2+PvenbP\nZRMhFc8WpBJSUCn2WU4eLNHnQwKBgQDCJtUjmkhIiNS8H+4aT/96NaEJcHXelRjk\nsQUANuna0oObiIurFKd4G7FYznaIjoi9voRvSWJ8qEoWmVRQ4LVrCNrRQbRv8TrS\nWoLWCLN9X7/UaSkbaMsUXblGK3KhYRijVn2eqm/pdjIlwMCVHnvB1azVB03FIPBh\nziopjLl0rQKBgQCTLJtKfEJmt8X2z8uyFHxRwnWLXl6pc53xT89IMaWxCNHFSay2\ndgblYgI2UeXqkNHeRDfuWUtze9FVSMQvKO5mBc3xzq/poQinTDG0jUgP+LPNnaW5\nTwUoQIWYCWfCO89PYUWdYu/NahUoZLHp9Y4Izkrazky9oolJMoZqVvqHFwKBgGCJ\nxJNWZLjEaNs+GTu2KXdP8UnrRICvrFgSeUUZCQEIie4tYB1qQLdlNbLNvny6Ot32\nPI3FdJY9a9F+3kD06uBU39ELFbhPv4rW/JWGcBFYKd9phsodOlVfIP/2HKKH0CNv\nnzjk0I7Kebbx+BBtvuWr5KtsXUw2y7AmPiq40YJlAoGATbrDHBjNJGaqPMBWsk3f\nvLO8qXBjmOHPUrg2wwQYprz8Az/BcS0LaBATDaoZOVtCqL03/+BCLyYw9AMa1/wA\nIgX3+V1aJRyXtyhyiAxc9wecS4BmSalpGZR3jlxlkzs+XcT7za59xWlaT7hQv2R2\nBGCBw22r1axcX9U7f6aAAUM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mulderkim@robotic-store-242700.iam.gserviceaccount.com",
+  "client_id": "114645232825224363287",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mulderkim%40robotic-store-242700.iam.gserviceaccount.com"
+}
